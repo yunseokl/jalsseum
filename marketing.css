@@ -5,3 +5,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .film video{aspect-ratio:9/16;object-fit:contain}
+
+.news-update{max-width:780px;padding:28px;border:1px solid var(--line);border-radius:12px;background:var(--lilac);margin:0 0 54px}.news-update h2{font-size:1.8rem}.news-update p{color:var(--muted);word-break:keep-all;overflow-wrap:break-word}.news-update .fine{margin-bottom:0}.news-update .actions{gap:18px}.news-update .eyebrow{margin-bottom:16px}
